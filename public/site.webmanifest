@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "3.5-sonnet",
+  "short_name": "Sonnet",
   "icons": [
     {
       "src": "/public/web-app-manifest-192x192.png",
